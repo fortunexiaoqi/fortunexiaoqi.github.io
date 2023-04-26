@@ -1,0 +1,27 @@
+/* 全局控制 */
+body{
+    font-size: 12px;
+    font-family: "微软雅黑";
+}
+/* 重置浏览器的默认样式 */
+body,h2,form,input,select,textarea{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border: none;
+}   
+.all{
+    /* 整体控制页面 */
+    width: 1024px;
+    height: 863px;
+    margin: 0 auto;
+    background: url(../images/bg3.png);
+}
+/* 整体控制表单 */
+.list{
+    width: 685px;
+    padding: 180px 0 0 340px;
+}
+p{
+    margin-top: 20px;
+}
